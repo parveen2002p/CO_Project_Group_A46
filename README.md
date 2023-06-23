@@ -1,2 +1,1 @@
-Created an Assembler and a Simulator for executing code in Assembly Language, with more than 15 different types of instructions.
-
+I have created an Assembler and Simulator that allow the execution of code written in Assembly Language. The system supports a wide range of functionalities with over 15 different types of instructions. It enables developers to write assembly code and execute it efficiently, providing a seamless experience for programming and testing in a low-level language.
